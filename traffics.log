@@ -1,0 +1,20 @@
+[
+    {
+        "level": "WARNING",
+        "message": "console-api 39:12 \"{\\\"type\\\":\\\"response\\\",\\\"syncMode\\\":\\\"async\\\",\\\"method\\\":\\\"GET\\\",\\\"url\\\":\\\"https://httpbin.org/get\\\",\\\"readyState\\\":2,\\\"responseText\\\":\\\"\\\",\\\"responseCode\\\":200,\\\"responseHeader\\\":\\\"content-length: 596\\\\r\\\\ncontent-type: application/json\\\\r\\\\n\\\"}\"",
+        "source": "console-api",
+        "timestamp": 1590848079525
+    },
+    {
+        "level": "WARNING",
+        "message": "console-api 39:12 \"{\\\"type\\\":\\\"response\\\",\\\"syncMode\\\":\\\"async\\\",\\\"method\\\":\\\"GET\\\",\\\"url\\\":\\\"https://httpbin.org/get\\\",\\\"readyState\\\":3,\\\"responseText\\\":\\\"{\\\\n  \\\\\\\"args\\\\\\\": {}, \\\\n  \\\\\\\"headers\\\\\\\": {\\\\n    \\\\\\\"Accept\\\\\\\": \\\\\\\"*/*\\\\\\\", \\\\n    \\\\\\\"Accept-Encoding\\\\\\\": \\\\\\\"gzip, deflate, br\\\\\\\", \\\\n    \\\\\\\"Accept-Language\\\\\\\": \\\\\\\"en-US,en;q=0.9\\\\\\\", \\\\n    \\\\\\\"Host\\\\\\\": \\\\\\\"httpbin.org\\\\\\\", \\\\n    \\\\\\\"Origin\\\\\\\": \\\\\\\"https://www.test-cors.org\\\\\\\", \\\\n    \\\\\\\"Referer\\\\\\\": \\\\\\\"https://www.test-cors.org/\\\\\\\", \\\\n    \\\\\\\"Sec-Fetch-Mode\\\\\\\": \\\\\\\"cors\\\\\\\", \\\\n    \\\\\\\"Sec-Fetch-Site\\\\\\\": \\\\\\\"cross-site\\\\\\\", \\\\n    \\\\\\\"User-Agent\\\\\\\": \\\\\\\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36\\\\\\\", \\\\n    \\\\\\\"X-Amzn-Trace-Id\\\\\\\": \\\\\\\"Root=1-5ed26a4d-f58c08565481d4a9752f769c\\\\\\\"\\\\n  }, \\\\n  \\\\\\\"origin\\\\\\\": \\\\\\\"149.129.103.254\\\\\\\", \\\\n  \\\\\\\"url\\\\\\\": \\\\\\\"https://httpbin.org/get\\\\\\\"\\\\n}\\\\n\\\",\\\"responseCode\\\":200,\\\"responseHeader\\\":\\\"content-length: 596\\\\r\\\\ncontent-type: application/json\\\\r\\\\n\\\"}\"",
+        "source": "console-api",
+        "timestamp": 1590848079525
+    },
+    {
+        "level": "WARNING",
+        "message": "console-api 39:12 \"{\\\"type\\\":\\\"response\\\",\\\"syncMode\\\":\\\"async\\\",\\\"method\\\":\\\"GET\\\",\\\"url\\\":\\\"https://httpbin.org/get\\\",\\\"readyState\\\":4,\\\"responseText\\\":\\\"{\\\\n  \\\\\\\"args\\\\\\\": {}, \\\\n  \\\\\\\"headers\\\\\\\": {\\\\n    \\\\\\\"Accept\\\\\\\": \\\\\\\"*/*\\\\\\\", \\\\n    \\\\\\\"Accept-Encoding\\\\\\\": \\\\\\\"gzip, deflate, br\\\\\\\", \\\\n    \\\\\\\"Accept-Language\\\\\\\": \\\\\\\"en-US,en;q=0.9\\\\\\\", \\\\n    \\\\\\\"Host\\\\\\\": \\\\\\\"httpbin.org\\\\\\\", \\\\n    \\\\\\\"Origin\\\\\\\": \\\\\\\"https://www.test-cors.org\\\\\\\", \\\\n    \\\\\\\"Referer\\\\\\\": \\\\\\\"https://www.test-cors.org/\\\\\\\", \\\\n    \\\\\\\"Sec-Fetch-Mode\\\\\\\": \\\\\\\"cors\\\\\\\", \\\\n    \\\\\\\"Sec-Fetch-Site\\\\\\\": \\\\\\\"cross-site\\\\\\\", \\\\n    \\\\\\\"User-Agent\\\\\\\": \\\\\\\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36\\\\\\\", \\\\n    \\\\\\\"X-Amzn-Trace-Id\\\\\\\": \\\\\\\"Root=1-5ed26a4d-f58c08565481d4a9752f769c\\\\\\\"\\\\n  }, \\\\n  \\\\\\\"origin\\\\\\\": \\\\\\\"149.129.103.254\\\\\\\", \\\\n  \\\\\\\"url\\\\\\\": \\\\\\\"https://httpbin.org/get\\\\\\\"\\\\n}\\\\n\\\",\\\"responseCode\\\":200,\\\"responseHeader\\\":\\\"content-length: 596\\\\r\\\\ncontent-type: application/json\\\\r\\\\n\\\"}\"",
+        "source": "console-api",
+        "timestamp": 1590848079525
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "test": "nightwatch captureXHRTraffic.js"
+    },
+    "dependencies": {
+        "chromedriver": "^77.0.0"
+    }
+}
